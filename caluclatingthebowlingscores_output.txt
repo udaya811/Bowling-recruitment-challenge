@@ -1,0 +1,46 @@
+Enter score1 of Frame1 : 
+
+1
+Enter score2 of Frame1 : 
+4
+Enter score1 of Frame2 : 
+4
+Enter score2 of Frame2 : 
+5
+Enter score1 of Frame3 : 
+6
+Enter score2 of Frame3 : 
+4
+Enter score1 of Frame4 : 
+5
+Enter score2 of Frame4 : 
+5
+Enter score1 of Frame5 : 
+10
+Enter score1 of Frame6 : 
+0
+Enter score2 of Frame6 : 
+1
+Enter score1 of Frame7 : 
+7
+Enter score2 of Frame7 : 
+3
+Enter score1 of Frame8 : 
+6
+Enter score2 of Frame8 : 
+4
+Enter score1 of Frame9 : 
+10
+Enter score1 of Frame10 : 
+2
+Enter score2 of Frame10 : 
+8
+Enter score3 of Frame10 : 
+6
+Third ball score in Last Frame :6
+ListScore1 : [1, 4, 6, 5, 10, 0, 7, 6, 10, 2]
+ListScore2 : [4, 5, 4, 5, 0, 1, 3, 4, 0, 8]
+Total score of All Frames : 133
+
+
+** Process exited - Return Code: 0 **
